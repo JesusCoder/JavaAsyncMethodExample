@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings
+/bin/
+.metadata/
+test-output/
+.pydevproject
